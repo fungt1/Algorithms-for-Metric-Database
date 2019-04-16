@@ -1,7 +1,8 @@
 package Algorithms;
 /**
- * Algorithms class. This is just a rough sketch of the algorithms for the project.
- * Pseudo Code 
+ * Algorithms class. This is just a rough sketch of the algorithms for the project. 
+ * It is a simple menu selection of the different functions.
+ * Pseudo Code of algorithms.
  * Team Performance = Standard Labor Hours / Hours Spent Writing Slots.
  * Productivity = Total Labor Hours Worked / Total Amount of Slots Written.
  * Closure Rate = Closed Leads / Successful Leads.
